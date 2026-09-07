@@ -1,2 +1,2 @@
 # BPPWD Master
-A master repository for storing all curriculum related materials for shop.  
+An organization to store all shop related materials for BPPWD, such as: shared code examples, project-based learning templates and solutions, and anything else we want to share with one another.   
