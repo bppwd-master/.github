@@ -4,8 +4,13 @@ An organization to store all shop related materials for BPPWD, such as: shared c
 ## Available Repositories
 * [Exploratory Program](#)
 * [Curriculum Hub](#)
-* [Python Examples](#)
+
+* [Database Examples](#)
+* [Development Tools & Environments](#)
+* [Embedded System Examples](#)
 * [Java Examples](#)
 * [JavaScript Examples](#)
-* [Embedded System Examples](#)
-* [Database Examples](#)
+* [Python Examples](#)
+
+
+
