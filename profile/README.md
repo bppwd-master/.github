@@ -3,6 +3,7 @@ An organization to store all shop related materials for BPPWD, such as: shared c
 
 ## Available Repositories
 * [Exploratory Program](https://github.com/bppwd-master/exploratory-program)
+* [Exploratory Maze Leaderboard](https://github.com/bppwd-master/exploratory-maze-leaderboard)
 * [Curriculum Hub](https://github.com/bppwd-master/curriculum-hub)
 
 * [Database Examples](https://github.com/bppwd-master/database-examples)
